@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [hub_usb_2_0_3_0.PrjPcb]
+   Generated File[hub_usb.TXT]
+   Generated File[hub_usb-RectHoles.TXT]
+   Generated File[hub_usb.LDP]
+   Generated File[hub_usb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:07:44 On 10/21/2026
